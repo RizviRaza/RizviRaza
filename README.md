@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**RizviRaza/RizviRaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working in the field of **Robotics**, with a strong focus on:
 
-Here are some ideas to get you started:
+- **Augmented Reality (AR) / Virtual Reality (VR) / Mixed Reality (MR)**
+- **Unmanned Aerial Vehicles (UAVs)**
+- **Mobile Robots**
+- **Autonomous Navigation**
+- **Motion Planning**
+- **Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Feel free to check out my repositories, where I share my projects and research in these domains.
+
+This is my **second GitHub repository** after losing access to my previous one. You can find my old work here: [SMRazaRivi96](https://github.com/SMRazaRizvi96).
+
+Feel free to collaborate or connect! 🤝
