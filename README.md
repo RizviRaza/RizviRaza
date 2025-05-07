@@ -1,16 +1,18 @@
-# Welcome to my GitHub profile!
+# 👋 Welcome to My GitHub!
 
-I’m currently working in the field of **Robotics**, with a strong focus on:
+This is my **new GitHub repository**—my previous account is no longer accessible, but you can still explore my earlier work here: [SMRazaRizvi96](https://github.com/SMRazaRizvi96).
 
-- **Augmented Reality (AR) / Virtual Reality (VR) / Mixed Reality (MR)**
-- **Unmanned Aerial Vehicles (UAVs)**
-- **Mobile Robots**
-- **Autonomous Navigation**
-- **Motion Planning**
-- **Computer Vision**
+I’m currently immersed in the exciting world of **Robotics**, with a strong emphasis on:
 
-💻 Feel free to check out my repositories, where I share my projects and research in these domains.
+- 🚁 **Unmanned Aerial Vehicles (UAVs)**
+- 🤖 **Mobile Robotics**
+- 🧭 **Autonomous Navigation**
+- 📍 **Motion Planning**
+- 👁️ **Computer Vision**
+- 🌐 **AR / VR / MR Technologies**
 
-This is my **second GitHub repository** after losing access to my previous one. You can find my old work here: [SMRazaRivi96](https://github.com/SMRazaRizvi96).
+💡 My repositories feature projects and research spanning these fields. Whether you're a fellow researcher, developer, or just curious, feel free to explore!
 
-Feel free to collaborate or connect! 🤝
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/syedmuhammadrazarizvi/)
+
+Open to collaboration and always eager to connect with like-minded enthusiasts! 🤝
